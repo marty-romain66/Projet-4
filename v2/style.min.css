@@ -11,3 +11,10 @@ body{margin:0;padding:0;background:#fff;overflow-x:hidden;-webkit-font-smoothing
 .marge{
     margin-bottom: 25px;
 }
+body{
+    position: relative;
+}
+.position{
+    position: absolute;
+    top: 92.5vh;
+}
