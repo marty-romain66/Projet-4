@@ -1058,3 +1058,6 @@ body{
     position: absolute;
     top: 92.5vh;
 }
+.text{
+    font-size: 20px;
+}
